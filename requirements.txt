@@ -1,4 +1,0 @@
-tensorflow
-kivy
-opencv-python
-Pillow
